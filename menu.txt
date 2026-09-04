@@ -1,0 +1,16 @@
+Burger
+5 50
+Pizza
+8 60
+Water
+1 200
+Fried Rice
+3 100
+Cake
+3 80
+Noodle
+4 110
+Sting Red
+1 300
+Sting Blue
+1 300
